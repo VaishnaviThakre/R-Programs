@@ -1,4 +1,4 @@
-# R Programs Repository
+# R Programs 
 
 Welcome to the R Programs repository! This repository contains various R scripts and projects that I have developed for data analysis, visualization, and more. Feel free to explore the content and use it for your own projects or learning purposes.
 
