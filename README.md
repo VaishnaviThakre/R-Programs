@@ -20,7 +20,6 @@ In this repository, you will find a collection of R programs covering a wide ran
 - Machine Learning
 - and more!
 
-Each program or project is contained within its own folder along with any necessary data files or documentation.
 
 ## Folder Structure
 
@@ -30,8 +29,6 @@ The repository is organized into the following structure:
   - `script.R`: R script containing the main code.
   - `data/`: Folder containing any necessary data files.
   - `README.md`: Additional information about the project or program.
-
-Feel free to browse through the folders to explore the projects and programs available.
 
 ## Usage
 
